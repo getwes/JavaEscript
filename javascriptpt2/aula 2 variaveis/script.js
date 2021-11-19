@@ -17,6 +17,9 @@
 //variave = 'freire';
 //console.log(variavel);
 
-let variael2 = 'wesley';
-variavel2 = 'freire'
-console.log(variavel2);
+//let variael2 = 'wesley';
+//variavel2 = 'freire'
+//console.log(variavel2);
+
+const constante = 'wesley';
+console.log(constante)
