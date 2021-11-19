@@ -13,6 +13,10 @@
 //console.log(typeof(nome))
 
 // como declarar
-var variavel = 'wesley';
-variave = 'freire';
-console.log(variavel);
+//var variavel = 'wesley';
+//variave = 'freire';
+//console.log(variavel);
+
+let variael2 = 'wesley';
+variavel2 = 'freire'
+console.log(variavel2);
