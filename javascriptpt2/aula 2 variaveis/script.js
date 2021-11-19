@@ -21,5 +21,7 @@
 //variavel2 = 'freire'
 //console.log(variavel2);
 
-const constante = 'wesley';
-console.log(constante)
+//const constante = 'wesley';
+//console.log(constante)
+
+var escopoglobal
