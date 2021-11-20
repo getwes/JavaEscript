@@ -24,4 +24,11 @@
 //const constante = 'wesley';
 //console.log(constante)
 
-var escopoglobal
+var escopoglobal = 'global';
+console.log(escopoglobal);
+
+function escopolocal(){
+    let escopolocalinterno = 'local';
+}
+
+confi
