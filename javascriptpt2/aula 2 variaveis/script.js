@@ -31,4 +31,4 @@ function escopolocal(){
     let escopolocalinterno = 'local';
 }
 
-confi
+config
