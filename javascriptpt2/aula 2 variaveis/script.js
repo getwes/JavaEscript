@@ -29,6 +29,6 @@ console.log(escopoglobal);
 
 function escopolocal(){
     let escopolocalinterno = 'local';
+    console.log(escopolocalinterno)
 }
-
-config
+escopolocal()
