@@ -37,3 +37,7 @@
 var atribuição = 'wesely';
 
 //comparacão
+var comparacao = '0' = 0;
+console.log(comparacao);
+
+//comparação identica
