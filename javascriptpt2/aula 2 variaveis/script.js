@@ -34,3 +34,6 @@
 //escopolocal()
 
 //atribuição
+var atribuição = 'wesely';
+
+//comparacão
