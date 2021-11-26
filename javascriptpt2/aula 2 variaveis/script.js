@@ -40,4 +40,4 @@ var atribuição = 'wesely';
 var comparacao = '0' = 0;
 console.log(comparacao);
 
-//comparação identica
+//comparação identica 
